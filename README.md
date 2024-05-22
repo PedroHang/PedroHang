@@ -2,7 +2,7 @@
 
 **`Data Science`**`Quality Assurance Analyst`
 
-Professional adept at enhancing processes within Agile environments. Broad knowledge in the QA field, such as: Performance Testing, Automation testing and Data Analysis for Testing. Proficient in Python and JavaScript (Node.js), with experience in React and Flutter for web/mobile development and libraries such as Pandas, MatplotLib and Scikit-Learn for Data Analysis and Modelling. Strong theorical foundation in DevOps, CI/CD, and a history of collaborating across International teams for holistic tech and management solutions. 
+Professional adept at enhancing processes within Agile environments. Broad knowledge in the QA field, such as: Performance Testing, Automation testing and Data Analysis for Testing. Proficient in JavaScript (Node.js), with experience in React and Flutter for web/mobile development and Python and some of its libraries such as Pandas, MatplotLib and Scikit-Learn for Data Analysis and Modelling. Strong theorical foundation in DevOps, CI/CD, and a history of collaborating across International teams for holistic tech and management solutions. 
 
 I am genuinely <b>passionate about Technology</b>, AI, and latest market trends for the DS. With a curious and analytical mindset, I pay close attention to detail and am always seeking new ways to enhance my learning techniques.
 
