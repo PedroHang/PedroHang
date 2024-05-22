@@ -12,7 +12,7 @@ I am genuinely passionate about Technology, AI, and latest market trends for T. 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCroWpzH4N60n2ueDUaORlvg">
          <img alt="youtube" title="My YouTube channel" src="https://custom-icon-badges.demolab.com/badge/-Youtube-red?style=for-the-badge&logo=video&logoColor=white"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://www.linkedin.com/in/pedrohang/">
          <img alt="linkedin" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn%20-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
    </p>
 
