@@ -2,9 +2,9 @@
 
 **`Data Science`**`Quality Assurance Analyst`
 
-Hello! I am Pedro, <b>QA Analyst</b> and <b>Performance Tester</b> with over 1 year of solid experience in ensuring the reliability, scalability, and performance of software applications. Additionally, I bring over 2 years of experience developing front-end applications for mobile and web platforms, along with Python development. I've worked with agile teams to ensure smooth project delivery.
+Professional adept at enhancing processes within Agile environments. Broad knowledge in the QA field, such as: Performance Testing, Automation testing and Data Analysis for Testing. Proficient in Python and JavaScript (Node.js), with experience in React and Flutter for web/mobile development and libraries such as Pandas, MatplotLib and Scikit-Learn for Data Analysis and Modelling. Strong theorical foundation in DevOps, CI/CD, and a history of collaborating across International teams for holistic tech and management solutions. 
 
-I am genuinely <b>passionate about Technology</b>, AI, and latest market trends for Testing. With a curious and analytical mindset, I pay close attention to detail and am always seeking new ways to enhance my learning techniques.
+I am genuinely <b>passionate about Technology</b>, AI, and latest market trends for the DS. With a curious and analytical mindset, I pay close attention to detail and am always seeking new ways to enhance my learning techniques.
 
 
    <p align="left">
