@@ -2,11 +2,9 @@
 
 **`Quality Assurance Analyst`**
 
-<img width="250px" style="align-right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpzYzFxYWFvOGZnYjJ4dGh6emprdXk4dWFmazg3cXNpaGU5OThiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTL4qQCbbLLV2Pm/giphy.gif"/>
+Hello! I am Pedro, <b>QA Analyst</b> and <b>Performance Tester</b> with over 1 year of solid experience in ensuring the reliability, scalability, and performance of software applications. Additionally, I bring over 2 years of experience developing front-end applications for mobile and web platforms, along with Python development. I've worked with agile teams to ensure smooth project delivery.
 
-Hello! I am Pedro, QA Analyst and Performance Tester with over 1 year of solid experience in ensuring the reliability, scalability, and performance of software applications. Additionally, I have over 2 years of experience developing front-end applications for mobile and web platforms, along with Python development. I've worked with agile teams to ensure smooth project delivery.
-
-I am genuinely passionate about Technology, AI, and latest market trends for T. With a curious and analytical mindset, I pay close attention to detail and am always seeking new ways to enhance my learning curve.
+I am genuinely <b>passionate about Technology</b>, AI, and latest market trends for Testing. With a curious and analytical mindset, I pay close attention to detail and am always seeking new ways to enhance my learning techniques.
 
 
    <p align="left">
