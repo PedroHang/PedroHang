@@ -1,6 +1,6 @@
 # Pedro hang
 
-**`Data Science`**`Quality Assurance Analyst`**
+**`Data Science`**`Quality Assurance Analyst`
 
 Hello! I am Pedro, <b>QA Analyst</b> and <b>Performance Tester</b> with over 1 year of solid experience in ensuring the reliability, scalability, and performance of software applications. Additionally, I bring over 2 years of experience developing front-end applications for mobile and web platforms, along with Python development. I've worked with agile teams to ensure smooth project delivery.
 
