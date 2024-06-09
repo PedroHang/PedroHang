@@ -1,6 +1,6 @@
 # Pedro hang
 
-**`Data Science`**`Quality Assurance Analyst`
+**`Data Science`**
 
 Professional adept at enhancing processes within Agile environments. Broad knowledge in the QA field, such as: Performance Testing, Automation testing and Data Analysis for Testing. Proficient in JavaScript (Node.js), with experience in React and Flutter for web/mobile development and Python and some of its libraries such as Pandas, MatplotLib and Scikit-Learn for Data Analysis and Modelling. Strong theorical foundation in DevOps, CI/CD, and a history of collaborating across International teams for holistic tech and management solutions. 
 
