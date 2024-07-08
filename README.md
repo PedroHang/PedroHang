@@ -2,9 +2,15 @@
 
 **`Data Science`**
 
-Professional adept at enhancing processes within Agile environments. Knowledge in the QA field, such as: Performance Testing, Automation testing and Data Analysis for Testing. Proficient in JavaScript (Node.js), with experience in React and Flutter for web/mobile development and Python and some of its libraries such as Pandas, MatplotLib and Scikit-Learn for Data Analysis and Modelling. Strong theorical foundation in DevOps, CI/CD, and a history of collaborating across International teams for holistic tech and management solutions. 
+Passionate about all aspects of the Data Science field, I am dedicated to leveraging data to generate actionable insights that drive significant business impact. Proficient in using AI to better deliver results and increase productivity, I utilize my skills in data analysis, processing, and modeling to contribute to the success and growth of an organization.
 
-I am genuinely <b>passionate about Technology</b>, AI, and latest market trends for the DS field. With a curious and analytical mindset, I pay close attention to detail and am always seeking new ways to enhance my learning techniques.
+Professional capable of improving processes in agile environments. Advanced experience in Python and its main libraries (Pandas, Matplotlib, Seaborn, and Scikit-Learn) for data analysis, Big Data, and Machine Learning model development.
+
+Proficient in the stages of the CRISP-DM methodology, with experience from Exploratory Data Analysis (EDA) to the evaluation and implementation of Machine Learning models. Possesses the necessary statistical knowledge for the effective implementation of various models.
+
+Additionally, I have storytelling skills and proficiency with tools like Streamlit for better visualization and presentation of data to stakeholders. I can skillfully utilize Artificial Intelligence to enhance my productivity and project delivery.
+
+Good knowledge in Data Structures, encompassing Data Processing, SQL Queries, and other related techniques. Extensive experience in the QA field. Proficiency in JavaScript, Node.js, React, and Flutter. Strong theoretical foundation in DevOps and CI/CD, along with a history of collaboration with international teams for holistic technology and management solutions. Knowledge in cloud environments such as AWS, including certification in the area.
 
 
    <p align="left">
@@ -14,14 +20,15 @@ I am genuinely <b>passionate about Technology</b>, AI, and latest market trends 
          <img alt="linkedin" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn%20-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
    </p>
 ---
-
 ### 🧰 Languages and Tools
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="JupyterNb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="ScikitLearn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+<img align="left" alt="Streamlit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
 <img align="left" alt="MatPlotLib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="aws" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img align="left" alt="Cypress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
 <img align="left" alt="Playwright" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
