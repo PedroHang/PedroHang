@@ -20,7 +20,9 @@ Good knowledge in Data Structures, encompassing Data Processing, SQL Queries, an
          <img alt="linkedin" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn%20-blue?style=for-the-badge&logoColor=white&logo=repo"/></a>
    </p>
 ---
+
 ### 🧰 Languages and Tools
+
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="JupyterNb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
