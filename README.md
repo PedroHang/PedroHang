@@ -2,15 +2,15 @@
 
 **`Data Science`**
 
-Passionate about all aspects of the Data Science field, I am dedicated to leveraging data to generate actionable insights that drive significant business impact. Proficient in using AI to better deliver results and increase productivity, I utilize my skills in data analysis, processing, and modeling to contribute to the success and growth of an organization.
+📊 Passionate about all aspects of the Data Science field, I am dedicated to leveraging data to generate actionable insights that drive significant business impact. Proficient in using AI to better deliver results and increase productivity, I utilize my skills in data analysis, processing, and modeling to contribute to the success and growth of an organization.
 
-Professional capable of improving processes in agile environments. Advanced experience in Python and its main libraries (Pandas, Matplotlib, Seaborn, and Scikit-Learn) for data analysis, Big Data, and Machine Learning model development.
+🚀 Professional capable of improving processes in agile environments. Advanced experience in Python and its main libraries (Pandas, Matplotlib, Seaborn, and Scikit-Learn) for data analysis, Big Data, and Machine Learning model development.
 
-Proficient in the stages of the CRISP-DM methodology, with experience from Exploratory Data Analysis (EDA) to the evaluation and implementation of Machine Learning models. Possesses the necessary statistical knowledge for the effective implementation of various models.
+🔍 Proficient in the stages of the CRISP-DM methodology, with experience from Exploratory Data Analysis (EDA) to the evaluation and implementation of Machine Learning models. Possesses the necessary statistical knowledge for the effective implementation of various models.
 
-Additionally, I have storytelling skills and proficiency with tools like Streamlit for better visualization and presentation of data to stakeholders. I can skillfully utilize Artificial Intelligence to enhance my productivity and project delivery.
+📈 Additionally, I have storytelling skills and proficiency with tools like Streamlit for better visualization and presentation of data to stakeholders. I can skillfully utilize Artificial Intelligence to enhance my productivity and project delivery.
 
-Good knowledge in Data Structures, encompassing Data Processing, SQL Queries, and other related techniques. Extensive experience in the QA field. Proficiency in JavaScript, Node.js, React, and Flutter. Strong theoretical foundation in DevOps and CI/CD, along with a history of collaboration with international teams for holistic technology and management solutions. Knowledge in cloud environments such as AWS, including certification in the area.
+🛠️ Good knowledge in Data Structures, encompassing Data Processing, SQL Queries, and other related techniques. Extensive experience in the QA field. Proficiency in JavaScript, Node.js, React, and Flutter. Strong theoretical foundation in DevOps and CI/CD, along with a history of collaboration with international teams for holistic technology and management solutions. Knowledge in cloud environments such as AWS, including certification in the area.
 
 
    <p align="left">
